@@ -1,4 +1,4 @@
 maven
 =====
 
-a place for cobbzilla's maven artifacts
+Place for putting maven artifacts.
